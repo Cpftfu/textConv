@@ -1,0 +1,10 @@
+C:\Users\Вика\source\repos\textConv\textConv\bin\Debug\textConv.exe.config
+C:\Users\Вика\source\repos\textConv\textConv\bin\Debug\textConv.exe
+C:\Users\Вика\source\repos\textConv\textConv\bin\Debug\textConv.pdb
+C:\Users\Вика\source\repos\textConv\textConv\obj\Debug\textConv.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\textConv\textConv\obj\Debug\textConv.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\textConv\textConv\obj\Debug\textConv.exe
+C:\Users\Вика\source\repos\textConv\textConv\obj\Debug\textConv.pdb
+C:\Users\Вика\source\repos\textConv\textConv\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вика\source\repos\textConv\textConv\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вика\source\repos\textConv\textConv\obj\Debug\textConv.csproj.CopyComplete
