@@ -31,7 +31,7 @@ namespace textConv
                 {
                     porn = porn + 1;
                 }
-                if (klavishka.Key == ConsoleKey.RightArrow) ;
+                if (klavishka.Key == ConsoleKey.RightArrow);
                 {
                     porn = porn + 1;
                 }
